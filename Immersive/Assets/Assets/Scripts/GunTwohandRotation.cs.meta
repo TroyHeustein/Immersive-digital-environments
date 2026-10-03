@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ca0a441e1685be14a9cb7108480d7476
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - foregripZone: {instanceID: 0}
+  - rearGripZone: {instanceID: 0}
+  - objectToRotate: {fileID: 3670221646456125984, guid: 5311f83a772ee83449b6d089e173534d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,65 @@
+{
+    "version": 1,
+    "name": "TargetControllerInput",
+    "maps": [
+        {
+            "name": "MoveForward",
+            "id": "bc0d0bc7-af43-4a7f-9115-1eb7cd06416c",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "244a946f-dacc-46f1-af4a-d4248ea289e2",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1564fa1e-1162-467b-98e7-92122d784dbe",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "MoveBackward",
+            "id": "a38900fc-69d6-43f8-9686-569b730e5a60",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "fd62ef04-5994-4919-84b8-ab3bc8807c26",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "01cc774f-68f6-4507-8211-6c5ee9bb21e6",
+                    "path": "<XRController>{LeftHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
